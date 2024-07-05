@@ -26,7 +26,7 @@ const Footer = () => {
         </div>
 
         <p className="text-gray-800">
-          Copyright &#169; 2024 Gulshank721&#174;. All rights reserved
+          Copyright &#169; 2024 Gulshank721&#174;. All rights reserved 
         </p>
       </div>
     </div>
