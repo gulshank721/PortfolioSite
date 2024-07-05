@@ -19,8 +19,8 @@ export const ProjectCard = ({ backgroundColor, title, description,demoLink,codeb
         <p className="card__title">{title}</p>
         <p className="card__description">{description}</p>
         <div className="flex gap-4 ring-offset-1 font-mono text-black">
-        <a href={demoLink} className="border rounded-sm border-gray-800 p-3 hover:bg-slate-400/20 transition-all">Live Demo</a>
-        <a href={codebase} className="border rounded-sm border-gray-800 p-3 hover:bg-slate-400/20 transition-all ">Source Code</a>
+        <a href={demoLink} target="_blank" rel="noreferrer" className="border rounded-sm border-gray-800 p-3 hover:bg-slate-400/20 transition-all">Live Demo</a>
+        <a href={codebase} target="_blank" rel="noreferrer" className="border rounded-sm border-gray-800 p-3 hover:bg-slate-400/20 transition-all ">Source Code</a>
         </div>
         
       </div>

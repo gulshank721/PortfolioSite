@@ -38,8 +38,8 @@ const Projects = () => {
             backgroundColor={"#FF0066"}
             title={"Portfolio"}
             description={"My portfolio web App"}
-            codebase={""}
-            demoLink={""}
+            codebase={"https://github.com/gulshank721/PortfolioSite"}
+            demoLink={"https://myportfolio-gulshank721s-projects.vercel.app/"}
           />
         </div>
         <div className="mx-auto">

@@ -26,7 +26,7 @@ const Jumbotron = () => {
           <a href="#contacts" className="shadow-lg border-2 border-gray-800 p-2 hover:bg-slate-800 hover:text-white hover:scale-125 transition-all ease-in-out">
             Contact me
           </a>
-          <button className="shadow-lg border-2 border-gray-800 p-2 hover:bg-orange-500 hover:text-black hover:scale-125 transition-all ease-in-out">Download CV</button>
+          <a href="/files/Resume_Gulshan_Kumar.pdf" download={"Resume_Gulshan_Kumar"} className="shadow-lg border-2 border-gray-800 p-2 hover:bg-orange-500 hover:text-black hover:scale-125 transition-all ease-in-out">Download CV</a>
         </div>
       </div>
 
