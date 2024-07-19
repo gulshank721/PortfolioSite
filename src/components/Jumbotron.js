@@ -16,7 +16,7 @@ const Jumbotron = () => {
       <div className="h-max ms-6 ">
         <div className="text-5xl font-bold text-gray-700 leading-normal">
           <p className=" ">Hello, my</p>
-          <p className=" ">name's Gulshan Kumar</p>
+          <p className=" ">name is Gulshan Kumar</p>
           <p className="">
             I'm Software <br /> Developer
           </p>
